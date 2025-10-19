@@ -125,4 +125,5 @@ with tab2:
 
         st.chat_message("assistant").write(response)
 
-st.caption("Developed by [Your Name] — HR Analytics Project (Streamlit Cloud)")
+
+st.caption("Developed by [Tasleem Raheel] — HR Analytics Project (Streamlit Cloud)")
